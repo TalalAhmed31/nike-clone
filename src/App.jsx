@@ -1,8 +1,9 @@
 import React from "react";
 
 const App = () => (
-    <main>
-
+    <main className="relative">
+    nav
+    
     </main>
 );
 
