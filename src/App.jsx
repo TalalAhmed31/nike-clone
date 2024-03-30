@@ -7,10 +7,11 @@ import SpecialOffer from "./section/SpecialOffer";
 import CustomerReviews from "./section/CustomerReviews";
 import Subscribe from "./section/Subscribe";
 import Footer from "./section/Footer";
+import Nav from "./components/Nav";
 
 const App = () => (
   <main className="relative">
-    nav
+    <Nav />
     <section className="xl:padding-1 wide:padding-r padding-b">
     <Hero />
     </section>
