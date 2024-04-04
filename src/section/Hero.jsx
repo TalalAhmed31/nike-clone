@@ -28,7 +28,7 @@ const Hero = () => {
 
         <h1
           className="mt-10 font-palanquin text-8xl
-      max-sm:text-[72px] max-sm:leading-[82] font-bold"
+      max-sm:text-[72px] max-sm:leading-[1] font-bold"
         >
           <span
             className="xl:bg-white xl:whitespace-nowrap
