@@ -1,8 +1,10 @@
+import { services } from "../constants"
+
 const Services = () => {
   return (
-    <div>
-      
-    </div>
+    <section className="flex justify-center max-container flex-wrap gap-9">
+    
+    </section>
   )
 }
 
