@@ -1,7 +1,6 @@
 const SpecialOffer = () => {
   return (
     <div>
-      testing.
     </div>
   )
 }
