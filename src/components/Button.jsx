@@ -6,11 +6,11 @@ const Button = ({ label, iconURL }) => {
     bg-coral-red text-white rounded-full border-coral-red hover:bg-white
     hover:transition-all hover:text-coral-red">
         {label}
-        <img
+        {iconURL && <img
         src={iconURL}
         alt="arrow-righticon"
         className="ml rounded-full w-5 h-5"
-         />
+         />}
     </button>
   )
 }
