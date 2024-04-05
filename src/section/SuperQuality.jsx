@@ -34,7 +34,7 @@ const SuperQuality = () => {
         <img src={shoe8}
         alt="shoe"
         width={570}
-        height={5}
+        height={522}
         />
       </div>
     </section>
